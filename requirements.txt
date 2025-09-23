@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+plotly
+pandas
+python-dotenv
+datetime
+json5
+typing-extensions
